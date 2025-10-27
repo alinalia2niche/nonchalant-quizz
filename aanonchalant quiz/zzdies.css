@@ -1,0 +1,16 @@
+body
+{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+}
+#button1
+{
+    margin-top: 15px
+}
+.question
+{
+    font-weight: bold;
+}
